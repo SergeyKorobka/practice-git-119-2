@@ -2,6 +2,10 @@ body {
   background-color: #fff;
 }
 
+p {
+  margin: 0;
+}
+
 .header {
   background-color: tomato;
 }
